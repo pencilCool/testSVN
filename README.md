@@ -1,1 +1,2 @@
 # testSVN
+fix some bug
